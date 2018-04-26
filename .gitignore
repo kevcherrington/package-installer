@@ -5,3 +5,6 @@
 # Ignore Java class files
 *.class
 
+# Ignore lib directories, build directories and generated files
+lib/
+out/
